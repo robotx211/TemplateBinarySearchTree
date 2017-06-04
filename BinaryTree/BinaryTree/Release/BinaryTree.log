@@ -1,0 +1,10 @@
+﻿  BinaryTree.cpp
+w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(15): error C2955: 'BinaryTreeNode': use of class template requires template argument list
+  w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(6): note: see declaration of 'BinaryTreeNode'
+w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(21): error C2548: 'Insert': missing default parameter for parameter 2
+BinaryTree.cpp(43): error C2653: 'BinarySearchTree': is not a class or namespace name
+BinaryTree.cpp(64): error C2548: 'Insert': missing default parameter for parameter 2
+  mian.cpp
+w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(15): error C2955: 'BinaryTreeNode': use of class template requires template argument list
+  w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(6): note: see declaration of 'BinaryTreeNode'
+w:\uni\year 2\oot\binarytree\binarytree\BinaryTree.h(21): error C2548: 'Insert': missing default parameter for parameter 2

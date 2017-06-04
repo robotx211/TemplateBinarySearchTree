@@ -1,0 +1,9 @@
+﻿  main.cpp
+w:\uni\year 2\oot\binarytree\binarytree\binarytree.h(126): warning C4018: '<': signed/unsigned mismatch
+  w:\uni\year 2\oot\binarytree\binarytree\main.cpp(28): note: see reference to function template instantiation 'void InsertFromVector<std::string>(std::vector<std::string,std::allocator<_Ty>> *,BinaryTreeNode<std::string> *)' being compiled
+          with
+          [
+              _Ty=std::string
+          ]
+  BinaryTree.vcxproj -> W:\Uni\Year 2\OOT\BinaryTree\Debug\BinaryTree.exe
+  BinaryTree.vcxproj -> W:\Uni\Year 2\OOT\BinaryTree\Debug\BinaryTree.pdb (Partial PDB)
